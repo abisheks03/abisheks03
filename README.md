@@ -11,10 +11,10 @@ I enjoy experimenting with technology, breaking things, fixing them, and learnin
 
 ## 🚀 What I'm Currently Doing
 
-- 🔍 Learning more about **Cybersecurity & System Security**
-- 💻 Building **small coding projects to sharpen problem-solving**
-- 🌐 Exploring **modern development tools and technologies**
-- 🧠 Continuously learning and experimenting
+- Learning more about **Cybersecurity & System Security**
+- Building **small coding projects to sharpen problem-solving**
+- Exploring **modern development tools and technologies**
+- Continuously learning and experimenting
 
 ---
 
@@ -29,7 +29,7 @@ I enjoy experimenting with technology, breaking things, fixing them, and learnin
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: *linkedin.com/in/abishek-sri/*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/abishek-sri/*  
 - 🌐 Creative Portfolio: *https://linktr.ee/sabishek*  
 
 ---
