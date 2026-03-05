@@ -30,6 +30,6 @@ I enjoy experimenting with technology, breaking things, fixing them, and learnin
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: *linkedin.com/in/abishek-sri/*  
-- 🌐 Creative Portfolio: *linkedin.com/in/abishek-sri/*  
+- 🌐 Creative Portfolio: *https://linktr.ee/sabishek*  
 
 ---
